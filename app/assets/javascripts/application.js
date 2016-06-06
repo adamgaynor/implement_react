@@ -12,4 +12,14 @@
 //
 //= require jquery
 //= require jquery_ujs
+
+//= require bootstrap-sprockets
+
+// React
+//= require react
+//= require react_ujs
+// require react-server // use react-server for server side rendering if we want to
+//= require react-router/umd/ReactRouter
+//= require components
+
 //= require_tree .
